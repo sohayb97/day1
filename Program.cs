@@ -1,9 +1,9 @@
 ﻿using System;
 
-class program
+public class program
 {
-    static void Main()
+       public static void display()
     {
-       System.Console.WriteLine("hi mate");
+        Console.WriteLine("hi mate");
     }
 }
